@@ -1,0 +1,11 @@
+% The code is associated with the following paper:
+% 
+% P.Zhu, Q.Hu . Rule Extraction from Support Vector Machines based on
+% Consistent Region Covering Reduction. 
+% For further information, please contact: cspzhu@comp.polyu.edu.hk
+
+For the usesage of this package, please refer to the following instructions:
+
+run demo.m 
+generate the data randomly 
+click train 
